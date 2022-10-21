@@ -1,0 +1,32 @@
+.heading
+{
+    font-size: medium;
+    width: 99%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rebeccapurple;
+}
+
+.note
+{
+    font-size: smaller;
+    color:peachpuff;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: lightseagreen;
+    background-color: tan;
+    width: 99%;
+    bottom: 0px;
+    line-height: 5;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid cadetblue;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px magenta;
+    
+}
